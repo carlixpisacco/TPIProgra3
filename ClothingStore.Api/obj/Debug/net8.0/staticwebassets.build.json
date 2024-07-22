@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TTYN/AQ6jcDy6YTGQBJsExmsiie8oBXd5nplg95nfCM=",
+  "Source": "ClothingStore.Api",
+  "BasePath": "_content/ClothingStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

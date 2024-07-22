@@ -1,0 +1,24 @@
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.deps.json
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.pdb
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\refint\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.pdb
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ref\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPI - ClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.deps.json
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\bin\Debug\net8.0\ClothingStore.Domain.pdb
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\refint\ClothingStore.Domain.dll
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ClothingStore.Domain.pdb
+C:\Users\Usuario\Documents\Programación 3\TPIClothingStore\ClothingStore.Domain\obj\Debug\net8.0\ref\ClothingStore.Domain.dll

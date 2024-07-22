@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Noq2dX6PS3Ecu+gHOagcBbpMZhVn9zAx0mFZFc0Nsa+2NpezQ0T8lMUM/ltZiONzWB1/mhLoWIm952eAhprKsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Programación 3\\TPIClothingStore\\ClothingStore.Domain\\ClothingStore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
